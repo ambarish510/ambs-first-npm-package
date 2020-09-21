@@ -1,0 +1,19 @@
+{
+  "name": "ambs-first-npm-package",
+  "version": "1.0.0",
+  "description": "first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test mypackage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambsFlip/ambs-first-npm-package.git"
+  },
+  "author": "ambarish510@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambsFlip/ambs-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/ambsFlip/ambs-first-npm-package#readme"
+}
